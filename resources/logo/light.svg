@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="36" viewBox="0 0 180 36">
+  <g fill="none" fill-rule="evenodd">
+    <path d="M28 26c6.075 0 11-4.925 11-11 0-6.075-4.925-11-11-11-3.64 0-6.876 1.77-8.87 4.48C17.79 8.18 16.47 8 15.09 8 9.63 8 5.19 12.44 5.19 17.9c0 .39.02.78.06 1.16C2.28 20.4 0 23.49 0 27c0 4.97 4.03 9 9 9h19c4.42 0 8-3.58 8-8 0-4.05-2.97-7.4-6.82-7.97C28.86 19.37 28.44 26 28 26z" stroke="#00AEEF" stroke-width="2"/>
+    <text x="42" y="23" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#0F172A">Cloud</text>
+    <text x="88" y="23" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#00A651">One</text>
+    <text x="128" y="23" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#0F172A">AI</text>
+  </g>
+</svg>
