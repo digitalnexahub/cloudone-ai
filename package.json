@@ -1,0 +1,17 @@
+{
+  "name": "cloudone-ai-docs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CloudOne AI documentation powered by Mintlify",
+  "scripts": {
+    "start": "mintlify dev --port ${PORT:-3000}",
+    "dev": "mintlify dev --port 3000"
+  },
+  "dependencies": {
+    "mintlify": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=20.17.0"
+  }
+}
+
