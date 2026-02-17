@@ -4,7 +4,7 @@
   "private": true,
   "description": "CloudOne AI documentation powered by Mintlify",
   "scripts": {
-    "start": "mintlify dev --port ${PORT:-3000}",
+    "start": "node server.js",
     "dev": "mintlify dev --port 3000"
   },
   "dependencies": {
@@ -14,4 +14,3 @@
     "node": ">=20.17.0"
   }
 }
-
